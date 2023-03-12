@@ -13,6 +13,8 @@
   	"Flag E6",
   	"Clear B6",
   	"Clear B5",
-  	"Clear C6"
+  	"Clear C6",
+  	"Unflag C6",
+  	"Clear E3"
   ]
 }
