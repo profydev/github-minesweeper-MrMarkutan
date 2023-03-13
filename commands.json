@@ -19,6 +19,8 @@
   	"Clear B2",
   	"Clear G1",
   	"Clear G3",
-  	"Clear D2"
+  	"Clear D2",
+  	"Flag C2",
+  	"Clear C6"
   ]
 }
